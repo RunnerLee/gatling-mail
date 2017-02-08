@@ -150,6 +150,7 @@ class Email
      */
     public function attach($name, $filePath)
     {
+        // TODO 限制附件大小
         $this->attach[$name] = $filePath;
 
         return $this;

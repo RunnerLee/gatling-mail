@@ -129,3 +129,7 @@ public function indexAction()
 [http://www.cnblogs.com/sdgwc/p/3324368.html](http://www.cnblogs.com/sdgwc/p/3324368.html)
 
 [https://mozillazg.com/2013/07/python-send-email-set-priority.html](https://mozillazg.com/2013/07/python-send-email-set-priority.html)
+
+### TODO
+- 限制附件大小
+- 优化调用
